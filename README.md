@@ -12,3 +12,6 @@ Good good study,day day up.
 ##[第三次作业](https://raw.githubusercontent.com/SaraXW/computationalphysics_N2013301020020/master/xw.py)
 *  这次作业代码是在杨喆雯同学的电脑上写的特在此感谢
 *  作业L1 在屏幕上用字符拼出自己姓名的英文 作业L2 在屏幕上用字符拼出任意次序的姓名，我将我自己的名字英文字符用最简单的方式显示出来，虽然简陋但也尽量用心
+
+##[第四次作业](https://www.zybuluo.com/Saraxw/note/413540)
+*  这次作业写的是第一章的第三题，详细见于第四次作业
