@@ -19,4 +19,6 @@ Good good study,day day up.
 ##[第五次作业](https://www.zybuluo.com/Saraxw/note/413577)
 *  这次作业写的事第一章的第六题，详情请点击上述链接。
 
-##[期末作业]()
+##[第六次作业]()
+
+##[期末作业](https://github.com/SaraXW/computationalphysics_N2013301020020/blob/master/Final-exam/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)
